@@ -29,7 +29,7 @@ criaCartao{
                 }
 
                 criaCartao{
-                    'Químico',
+                    'Química',
                     'Qual o número atômico da molécula de cloro',
-                    'É 17'
+                    '17'
                     }
